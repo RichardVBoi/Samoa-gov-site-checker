@@ -102,7 +102,7 @@ As a community initiative, I wanted to provide the people of Samoa with a reliab
 | Component | Technology |
 |-----------|------------|
 | Monitoring | [Uptime Kuma](https://github.com/louislam/uptime-kuma) |
-| Hosting | Self-hosted on VPS via [Coolify](https://coolify.io) |
+| Hosting | Self-hosted on VPS 
 | Status Page | Uptime Kuma Public Status Page |
 
 ---
