@@ -139,6 +139,9 @@ Feel free to reach out to add or update any government services.
 This community project is open and free for the benefit of all Samoans.
 
 ---
+## Disclaimer
+This project is an independent initiative and is not affiliated with or endorsed by the Government of Samoa. It monitors publicly accessible service availability information only.
+---
 
 ## 🔗 Links
 
